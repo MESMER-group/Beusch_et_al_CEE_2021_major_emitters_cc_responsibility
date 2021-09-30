@@ -12,8 +12,8 @@ If you use any code from this repository, please cite the associated paper.
 
 To run the scripts, follow their ordering:
 
-- 1 trains MESMER for different ESMS and creates ESM-specific internal climate variability emulations.
-- 2 preprocesses MAGICC output.
+- 1 trains MESMER (v0.8.2) for different ESMS and creates ESM-specific internal climate variability emulations.
+- 2 preprocesses MAGICC (v6) output.
 - 3 derives ESM-specific full emulations and grid-cell-level warming statistics.
 - 4 derives grid-cell-level percentiles for the full ensemble of emulations for each of the warming statistics.
 - 5 creates illustrative sample emulations.
@@ -23,7 +23,7 @@ However, be aware that this code only works if all input data is saved in the sa
 
 ## Code versions
 
-no releases yet
+Revised paper submission release: v0.7.0
 
 ## License
 
