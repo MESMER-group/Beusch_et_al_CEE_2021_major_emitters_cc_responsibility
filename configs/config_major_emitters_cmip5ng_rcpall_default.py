@@ -118,18 +118,7 @@ files_magicc_m_se = [
 ]
 # must match order of scens_magicc_x!
 
-
 # ESMs
-# esms = ['ACCESS1-0','ACCESS1-3','bcc-csm1-1-m','bcc-csm1-1'] # ch4 screen 1
-# esms = ['BNU-ESM','CanESM2','CCSM4','CESM1-BGC'] # ch4 screen 2
-# esms = ['CESM1-CAM5','CMCC-CESM','CMCC-CM','CMCC-CMS'] # ch4 screen 3
-# esms = ['CNRM-CM5','CSIRO-Mk3-6-0','EC-EARTH','FGOALS-g2'] # ch4 screen 4
-# esms = ['FIO-ESM','GFDL-CM3','GFDL-ESM2G','GFDL-ESM2M'] # ch4 screen 5
-# esms = ['GISS-E2-H-CC','GISS-E2-H','GISS-E2-R-CC','GISS-E2-R'] # iacdipl-6 screen 1
-# esms = ['HadGEM2-AO','HadGEM2-CC','HadGEM2-ES','inmcm4'] # iacdipl-6 screen 2
-# esms = ['IPSL-CM5A-LR','IPSL-CM5A-MR','IPSL-CM5B-LR','MIROC5'] # iacdipl-6 screen 3
-# esms = ['MIROC-ESM-CHEM','MIROC-ESM','MPI-ESM-LR','MPI-ESM-MR'] # iacdipl-6 screen 4
-# esms = ['MRI-CGCM3','MRI-ESM1','NorESM1-ME','NorESM1-M'] # iacdipl-6 screen 5
 esms = [
     "ACCESS1-0",
     "ACCESS1-3",
