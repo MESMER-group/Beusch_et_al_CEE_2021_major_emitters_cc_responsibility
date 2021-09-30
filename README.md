@@ -23,7 +23,7 @@ However, be aware that this code only works if all input data is saved in the sa
 
 ## Code versions
 
-no releases yet
+Revised paper submission release: v0.7.0
 
 ## License
 
