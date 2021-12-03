@@ -26,6 +26,7 @@ To reproduce the results shown in the study, the python packages mesmer (v0.8.2)
 ## Code versions
 
 Revised paper submission release: v0.7.0
+
 Accepted paper release: v1.0.0
 
 ## License
