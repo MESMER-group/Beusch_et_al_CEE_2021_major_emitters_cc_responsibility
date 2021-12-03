@@ -21,6 +21,8 @@ To run the scripts, follow their ordering:
 
 However, be aware that this code only works if all input data is saved in the same structures as we have stored it in and if you have all the required data available. Hence, it’s more likely that individual code snippets and checking out the general structure of our scripts are beneficial to you, rather than directly running the full code in this repository.
 
+To reproduce the results shown in the study, the python packages mesmer (v0.8.2) and regionmask (v0.6.2) are required.
+
 ## Code versions
 
 Revised paper submission release: v0.7.0
