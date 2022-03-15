@@ -4,7 +4,7 @@
 
 This repository contains all the python code to reproduce the figures of the following paper:
 
-Beusch, L., Nauels, A., Gudmundsson, L., Gütschow, J., Schleussner, C.-F., and Seneviratne, S. I.: Responsibility of major emitters for country-level warming and extreme hot years,  Commun. Earth Environ., accepted, 2021.
+Beusch, L., Nauels, A., Gudmundsson, L., Gütschow, J., Schleussner, C.-F., and Seneviratne, S. I.: Responsibility of major emitters for country-level warming and extreme hot years,  Commun. Earth Environ., 3, 7, https://doi.org/10.1038/s43247-021-00320-6, 2022.
 
 If you use any code from this repository, please cite the associated paper.
 
